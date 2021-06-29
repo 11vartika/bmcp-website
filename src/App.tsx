@@ -1,5 +1,5 @@
 import { Topbar } from './components/Topbar/Topbar'
-import { Footer } from './components/Footer/Footer';
+import { Footer } from './components/Footer';
 import './App.css';
 import React from 'react';
 
